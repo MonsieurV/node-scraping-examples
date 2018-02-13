@@ -40,7 +40,6 @@ const ELEMENTS_MAPPING = {
     }
 };
 
-// TODO Could load the page using only Cheerio.
 request('https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html', function (error, response, html) {
     if (!error) {
         // console.log(html);
