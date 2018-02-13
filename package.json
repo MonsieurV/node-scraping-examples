@@ -1,0 +1,27 @@
+{
+  "name": "node-scraping-examples",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MonsieurV/node-scraping-examples.git"
+  },
+  "version": "0.0.1",
+  "description": "Some examples of web scraping using Cheerio",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrap",
+    "scraping",
+    "cheerio",
+    "node"
+  ],
+  "author": "Yoan Tournade <yoan@ytotech.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.5",
+    "moment": "^2.20.1",
+    "phantom": "^4.0.12",
+    "request": "^2.83.0"
+  }
+}
