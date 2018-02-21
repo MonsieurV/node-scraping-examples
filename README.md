@@ -30,6 +30,6 @@ node scrap-bcb-interest-rate.js
 
 # Credits
 
-[@slakap](https://github.com/slaklad) give me the idea for these examples.
+[@slaklad](https://github.com/slaklad) give me the idea for these examples.
 
 Yoan <yoan@ytotech.com>.
