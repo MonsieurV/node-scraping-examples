@@ -19,9 +19,9 @@
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
-    "lodash": "^4.17.5",
-    "moment": "^2.20.1",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.1",
     "phantom": "^4.0.12",
-    "request": "^2.83.0"
+    "request": "^2.85.0"
   }
 }
